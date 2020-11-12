@@ -4,16 +4,17 @@ import { BrowserRouter as Router, Route } from 'react-router-dom';
 
 import Sidebar from './components/Sidebar/sidebar'
 import Welcome from './components/Welcome/welcome'
+import Portfolio from './components/Portfolio/portfolio'
 
 function App() {
   return (
     <div className="App">
         
         <Sidebar />
-        {/* <Router>
-        
+        <Router>
         <Route exact path="/" component={Welcome} />
-        </Router> */}
+        <Route exact path="/portfolio" component={Portfolio} />
+        </Router>
     </div>
   );
 }
