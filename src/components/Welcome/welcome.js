@@ -13,7 +13,7 @@ function Body() {
 
                         <h2 className="home-subheading">
                             a freelance software engineer specialized in<br />
-                    both <strong>front-end and back-end </strong>. Ipdfkmsdkfsndlfknsdljgnsdlkfnak;fnapwfnm;akdnfsdngka;dfma;skf'ask'dfaksfpkadfl;mazdlfmas;lfmals;f</h2>
+                    both <strong>front-end and back-end </strong>.</h2>
 
 
                         <div className="home-buttons">
