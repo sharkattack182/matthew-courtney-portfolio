@@ -30,7 +30,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, 
     position: relative;
     height: 100vh;
     overflow-y: auto;
-    padding: 45px 40px;
+    padding: 45px 20px;
     align-items: center;
 }
 
@@ -195,6 +195,11 @@ li a:hover {
         text-align: center;
         background-color: rgb(44, 146, 241);
     }
+
+    .site-sidebar .site-sidebar-inner {
+        padding: 45px 40px;
+    }
+    
 
     .main-navigation .navigation-extend-bar a {
         display: inline;
