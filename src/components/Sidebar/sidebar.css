@@ -57,7 +57,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, 
 
 .main-navigation {
 
-    line-height: 30px;
+    line-height: 25px;
     position: relative;
     font-size: 14px;
 }
@@ -126,16 +126,20 @@ ul {
     font-size: 22px;
 }
 
+
 .site-sidebar .block .block-title {
-    font-size: 32px;
+    font-size: 27px;
     font-weight: 300;
     color: #aaa;
     color: rgba(255,255,255,.5);
     margin-bottom: 15px;
-    padding-top: 30px;
+    padding-top: 22px;
 
 }
 
+.person-title {
+    font-size: 27px;
+}
 .button.button-icon {
     padding: 0;
     margin-right: .2em;
@@ -164,7 +168,7 @@ a {
 
 
 li a {
-    font-size: 27px;
+    font-size: 22px;
     padding-top: 10px;
 }
 
@@ -219,6 +223,11 @@ li a:hover {
         padding: 0;
     
     }
+    .person .person-content {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    
 
   }
 
