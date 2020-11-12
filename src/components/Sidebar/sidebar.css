@@ -48,6 +48,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, 
 }
 .u-photo img {
     border-radius: 50% !important;
+    max-height: 375px;
     
 }
 .person .person-content {
@@ -138,7 +139,11 @@ ul {
 }
 
 .person-title {
-    font-size: 27px;
+    font-size: 30px;
+}
+
+.person-subtitle {
+    font-size: 30px;
 }
 .button.button-icon {
     padding: 0;
@@ -169,7 +174,7 @@ a {
 
 li a {
     font-size: 22px;
-    padding-top: 10px;
+    padding-top: 5px;
 }
 
 li a:hover {
@@ -180,6 +185,7 @@ li a:hover {
     width: 100%;
     text-align: center;
     padding: 0;
+    padding-bottom: 10px;
 
 }
 .button-icon {
