@@ -1,0 +1,58 @@
+.container-custom {
+    padding-top: 100px;
+}
+.heading {
+    font-size: 65px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 35px;
+    color: white;
+}
+.contact {
+    background-color:  rgba(44, 146, 241, 0.8);
+    text-align: right;
+    max-width: 1100px;
+    margin-left: 35%;
+    margin-right: auto;
+    padding-bottom: 40px;
+}
+.contact p {
+    color: white;
+    padding-right: 35px;
+    font-size: 35px;
+    
+}
+
+.buttonz {
+    padding-right: 35px;
+}
+.contact a {
+    color: white;
+}
+.button-white:hover {
+    background-color: rgb(253, 253, 253, .3);
+}
+
+
+
+
+.home-section-inner {
+    padding: 20px;
+}
+@media (max-width: 900px) {
+    .contact {
+        background-image: url("https://d3e1m60ptf1oym.cloudfront.net/1877c674-d86d-41cd-a8d7-0d6948c0da4c/DSC8215-Charlotte-Skyline-Black-White-Image_xgaplus.jpg");
+        background-size: cover;
+        height: 100vh;
+        text-align: center;
+        width: 100%;
+        height: 100%;
+        padding-bottom: 40px;
+        margin-left: 0;
+        margin-right: 0;
+
+    }
+    .container-custom {
+        height: 100vh;
+    }
+    }
