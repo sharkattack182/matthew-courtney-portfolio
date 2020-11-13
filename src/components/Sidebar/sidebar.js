@@ -21,10 +21,10 @@ function Sidebar() {
                             <a rel="me" href="mailto:matthewdc182@gmail.com" className="button button-icon u-email" title="mail:matthewdc182@gmail.com">
                                 <i className="fa fa-envelope"></i>
                             </a>
-                            <a rel="me" href="https://www.linkedin.com/in/matthew-courtney-2854811b5/" className="button button-icon" title="linkedin: matthew-courtney">
+                            <a rel="me" href="https://www.linkedin.com/in/matthew-courtney-2854811b5/" target="_blank" className="button button-icon" title="linkedin: matthew-courtney">
                                 <i className="fa fa-linkedin"></i>
                             </a>
-                            <a rel="me" href="https://github.com/sharkattack182" className="button button-icon" title="github: sharkattack182">
+                            <a rel="me" href="https://github.com/sharkattack182" target="_blank" className="button button-icon" title="github: sharkattack182">
                                 <i className="fab fa-github-square"></i>
                             </a>
                         </div>
