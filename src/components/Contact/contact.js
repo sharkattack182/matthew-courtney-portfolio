@@ -13,8 +13,8 @@ function Contact() {
                 <p><i class="fas fa-phone"></i><a href="tel:6072064901"> (607) 206 4901</a></p>
                 <p><i class="far fa-envelope"></i> matthewdc182@gmail.com</p>
                 <div className="buttonz">
-                    <a href="https://www.linkedin.com/in/matthew-courtney-2854811b5/" id="btn" className="button button-outline button-white">LinkedIn</a>
-                    <a href="https://github.com/sharkattack182" id="btn" className="button button-outline button-white">GitHub</a>
+                    <a href="https://www.linkedin.com/in/matthew-courtney-2854811b5/" target="_blank" id="btn" className="button button-outline button-white">LinkedIn</a>
+                    <a href="https://github.com/sharkattack182" target="_blank" id="btn" className="button button-outline button-white">GitHub</a>
                 </div>
 
 
