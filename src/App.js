@@ -7,6 +7,7 @@ import Welcome from './components/Welcome/welcome'
 import Portfolio from './components/Portfolio/portfolio'
 import Contact from './components/Contact/contact'
 import Resume from './components/Resume/resume'
+import Port1 from './components/Port1/port1'
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Route exact path="/portfolio" component={Portfolio} />
         <Route exact path="/contact" component={Contact} />
         <Route exact path="/resume" component={Resume} />
+        <Route exact path="/port1" component={Port1} />
         </Router>
     </div>
   );
