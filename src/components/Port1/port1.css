@@ -1,6 +1,6 @@
-.hello {
+.title {
     color: white;
-    font-size: 120px;
+    font-size: 100px;
     padding-top: 25px;
     text-align: center;
 }
@@ -11,15 +11,26 @@
 
 }
 
+.col-md-10 {
+    margin-left: auto;
+    margin-right: auto;
+}
 .blue {
     background-color:  rgba(44, 146, 241, 0.8);
     padding-left: 30px;
     max-width: 1100px;
-    padding-right: 30px;
+    height: fit-content;
     text-align: center;
 }
 
 .blue p {
     color: white;
-    font-size: 25px;
+    font-size: 22px;
+}
+
+.image1 {
+    max-height: 300px;
+    width: auto;
+    margin-bottom: 20px;
+    padding: 0;
 }
