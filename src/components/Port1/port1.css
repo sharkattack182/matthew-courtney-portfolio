@@ -34,3 +34,57 @@
     margin-bottom: 20px;
     padding: 0;
 }
+
+
+@media (max-width: 900px) {
+
+    .title {
+        color: white;
+        font-size: 70px;
+        padding-top: 25px;
+        text-align: center;
+    }
+
+    .container-port {
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 50px;
+        padding-left: auto;
+        padding-right: auto;
+        overflow-y: scroll;
+        width: 100vw;
+    }
+
+    .blue {
+        margin-left: 0;
+        margin-right: 0;
+        width: 100vw;
+        padding-left:10px;
+        padding-right: 10px;
+    }
+
+    .col-md-10 {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .row {
+        margin: 0;
+    }
+
+    .blue p {
+        color: white;
+        font-size: 22px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0;
+    }
+
+    .image1 {
+        margin-bottom: 20px;
+        padding: 0;
+        width: 100%;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}

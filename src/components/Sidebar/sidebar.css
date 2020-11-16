@@ -205,9 +205,9 @@ li a:hover {
 
     .site-sidebar .site-sidebar-inner {
         padding: 45px 40px;
+        height: auto;
     }
     
-
     .main-navigation .navigation-extend-bar a {
         display: inline;
     }
