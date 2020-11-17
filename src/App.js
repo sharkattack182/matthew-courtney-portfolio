@@ -10,6 +10,7 @@ import Resume from './components/Resume/resume'
 
 import Port1 from './components/Port1/port1'
 import Port2 from './components/Port2/port2'
+import Port3 from './components/Port3/port3'
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
         <Route exact path="/resume" component={Resume} />
         <Route exact path="/port1" component={Port1} />
         <Route exact path="/port2" component={Port2} />
+        <Route exact path="/port3" component={Port3} />
         </Router>
     </div>
   );
