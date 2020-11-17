@@ -24,7 +24,7 @@ function Port1() {
                     
                 </div>
 
-                <a href="https://github.com/sharkattack182/project-3" className="button button-outline button-white">Github</a>
+                <a href="https://github.com/sharkattack182/project-3" target="_blank" className="button button-outline button-white">Github</a>
 
             </div>
         </div>
