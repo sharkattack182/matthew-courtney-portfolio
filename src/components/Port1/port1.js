@@ -20,12 +20,9 @@ function Port1() {
                 <div className="row">
                     <div className="col-md-10">
                         <img src={Example} alt="equippe" className="image1"/> 
-                    </div>
-                    
+                    </div>                    
                 </div>
-
                 <a href="https://github.com/sharkattack182/project-3" target="_blank" className="button button-outline button-white">Github</a>
-
             </div>
         </div>
 

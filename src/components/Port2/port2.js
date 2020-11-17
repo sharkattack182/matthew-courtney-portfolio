@@ -9,12 +9,17 @@ function Port2() {
         <div className="blue">
         <div className="row">
             <div className="col-md-10">
-                <h1 className="title">Employee Tracker</h1>
+                <h1 className="title">Classmate Tracker</h1>
             </div>
         </div>
             <div className="row">
                 <div className="col-md-10">
-                    <p>EquiPPE served as my final project for my bootcamp. The idea behind the project was to build an ecommerce site. I worked with a team of three other students. I was responsible for architecting the overall project design including managing the team respository and delegating initail responsibilities for each team member. I worked on the backend by creating and integrating the database using sequelize. I also took on the responsibility of defining the server side routes and controllers using Express. After an MVP was met I also went through and stylized the final product using HTML, CSS, and JavaScript.</p>
+                    <p>The Classmate Tracker was a project during my bootcamp. The idea of the asignment was to break up the application's
+UI into components, manage the componnt state, and respond to user events. The application uses a JSON package I created using my classmates names and linkedin
+account address. The assignment recommended we use a personel randomizer application on the web but I decided to
+take the extra step and create a useful tool that would help my classmates connect. 
+The project was very helpful in learning to work with state in React. At this time, a user can search through the list,
+by name as well as sortable by ID. I would like to add the ability to sort by name as well in the future.</p>
                 </div>
             </div>
             <div className="row">
