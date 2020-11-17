@@ -1,6 +1,6 @@
 import React from "react";
 import './port3.css';
-
+import Example3 from "./imgs/pokedex.png"
 
 function Port3() {
     return (
@@ -8,7 +8,7 @@ function Port3() {
         <div className="blue">
         <div className="row">
             <div className="col-md-10">
-                <h1 className="title">Employee Tracker</h1>
+                <h1 className="title">Pokedex</h1>
             </div>
         </div>
             <div className="row">
@@ -18,10 +18,10 @@ function Port3() {
             </div>
             <div className="row">
                 <div className="col-md-10">
-                    <img src={Example2} alt="employee-tracker" className="image2"/> 
+                    <img src={Example2} alt="pokedex" className="image3"/> 
                 </div>
             </div>
-            <a href="https://github.com/sharkattack182/react-employee" target="_blank" className="button button-outline button-white">Github</a>
+            <a href="https://github.com/sharkattack182/project-2" target="_blank" className="button button-outline button-white">Github</a>
         </div>
     </div>
 

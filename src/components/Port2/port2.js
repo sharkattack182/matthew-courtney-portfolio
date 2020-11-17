@@ -1,6 +1,6 @@
 import React from "react";
 import './port2.css';
-import Example3 from "./imgs/pokedex.png"
+import Example2 from "./imgs/employee.png"
 
 
 function Port2() {
@@ -19,10 +19,10 @@ function Port2() {
             </div>
             <div className="row">
                 <div className="col-md-10">
-                    <img src={Example3} alt="pokedex" className="image3"/> 
+                    <img src={Example2} alt="employee-tracker" className="image2"/> 
                 </div>
             </div>
-            <a href="https://github.com/sharkattack182/project-2" target="_blank" className="button button-outline button-white">Github</a>
+            <a href="https://github.com/sharkattack182/react-employee" target="_blank" className="button button-outline button-white">Github</a>
         </div>
     </div>
 
