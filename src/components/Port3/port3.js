@@ -18,7 +18,7 @@ function Port3() {
             </div>
             <div className="row">
                 <div className="col-md-10">
-                    <img src={Example2} alt="pokedex" className="image3"/> 
+                    <img src={Example3} alt="pokedex" className="image3"/> 
                 </div>
             </div>
             <a href="https://github.com/sharkattack182/project-2" target="_blank" className="button button-outline button-white">Github</a>
