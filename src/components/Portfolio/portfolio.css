@@ -1,5 +1,5 @@
 .container-custom {
-    padding-top: 100px;
+    padding-top: 40px;
     padding-bottom: 40px;
     padding-right: 25px;
 }
@@ -144,6 +144,7 @@ img.grayscale {
 
         /* Responsive Sectiom */
 
+
         @media (max-width: 900px) {
             .portfolio{
                 margin-left: 0;
@@ -163,7 +164,8 @@ img.grayscale {
             padding-left: 20px;
             margin-right: auto;
             margin-left: auto;
-            padding-right:0;
+            padding-right: 0px;
+            padding-left: 0px;
            }
            .card {
             width: 90%;
