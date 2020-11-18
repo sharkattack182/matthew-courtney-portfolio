@@ -10,7 +10,7 @@
     left: 0;
     position: fixed;
     z-index: 2;
-    width: 32%;
+    width: 28%;
     font-size: 14px;
     color: #fff;
     text-align: left;
@@ -45,7 +45,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, 
 }
 .u-photo img {
     border-radius: 50% !important;
-    max-height: 375px;
+    max-height: 200px;
     
 }
 .person .person-content {
@@ -121,12 +121,12 @@ ul {
 }
 
 .site-sidebar .block-social {
-    font-size: 22px;
+    font-size: 18px;
 }
 
 
 .site-sidebar .block .block-title {
-    font-size: 27px;
+    font-size: 20px;
     font-weight: 300;
     color: #aaa;
     color: rgba(255,255,255,.5);
@@ -136,11 +136,11 @@ ul {
 }
 
 .person-title {
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .person-subtitle {
-    font-size: 30px;
+    font-size: 22px;
 }
 .button.button-icon {
     padding: 0;
@@ -154,7 +154,7 @@ ul {
 
 .button {
     padding: .4em .8em;
-    font-size: 35px;
+    font-size: 30px;
     line-height: 1;
     margin-right: 10px;
     margin-left: 10px;
@@ -170,7 +170,7 @@ a {
 
 
 li a {
-    font-size: 22px;
+    font-size: 20px;
     padding-top: 5px;
 }
 
