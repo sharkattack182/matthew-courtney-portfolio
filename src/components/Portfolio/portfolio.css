@@ -24,6 +24,8 @@
     margin: 5px;
     margin-top: 15px;
 }
+
+
 /* .carousel-caption h5, p {
     color: #f3f3f3;
 }
@@ -168,6 +170,7 @@ img.grayscale {
             padding-left: 0px;
            }
            .card {
+               min-height: 351px;
             width: 90%;
             margin-right: auto;
             margin-left: auto; 
@@ -189,11 +192,16 @@ img.grayscale {
                display: none;
            }
            .content .description {
-               font-size: 25px;
+               font-size: 20px;
            }
            .btn-info {
-               font-size: 30px;
+               font-size: 20px;
                margin: 20px;
+           }
+
+           .port {
+               margin-right: 0 !important;
+               margin-left: 0 !important;
            }
             }
 

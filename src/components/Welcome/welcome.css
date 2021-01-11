@@ -1,6 +1,6 @@
 .home-heading {
     color: white;
-    font-size: 200px;
+    font-size: 25vh;
     text-align: right;
     padding-right: 50px;
 }
@@ -45,7 +45,7 @@
         padding: 10px;
     }
     .site-main {
-        background-image: url("https://d3e1m60ptf1oym.cloudfront.net/1877c674-d86d-41cd-a8d7-0d6948c0da4c/DSC8215-Charlotte-Skyline-Black-White-Image_xgaplus.jpg");
+        background-color: rgb(90, 93, 95);
         background-size: cover;
         min-height: 100vh;
     }
@@ -64,7 +64,7 @@
 
     @media screen and (min-width: 900px) and (max-width:1700px) {
         .home-heading{
-            font-size: 105px;
+            font-size: 25vh;
             padding: 10px;
         }
         .home-subheading{

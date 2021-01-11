@@ -4,4 +4,12 @@
   background-size: cover;
   min-height: 100vh;
   background-position: fixed;
+
+ 
+  /* background-image:
+    linear-gradient(black, black),
+    url("https://d3e1m60ptf1oym.cloudfront.net/1877c674-d86d-41cd-a8d7-0d6948c0da4c/DSC8215-Charlotte-Skyline-Black-White-Image_xgaplus.jpg");
+  background-size: cover;
+  min-height: 100vh;
+  background-blend-mode: saturation; */
 }
