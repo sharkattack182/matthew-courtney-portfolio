@@ -12,7 +12,7 @@ function Portfolio() {
                 <h1 className="heading">Portfolio</h1>
                 <div className="row">
                     <div className="col-lg-3">
-                        <div className="card">
+                        {/* <div className="card">
                             <div className="image image1"></div>
                             <div className="content">
                                 <div className="header">EquiPPE</div>
@@ -26,11 +26,11 @@ function Portfolio() {
                                 <a href="/port1"><button type="button"
                                     class="btn btn-info zoom">More Info</button></a>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                     <div className="col-lg-3">
 
-                        <div className="card">
+                        {/* <div className="card">
                             <div className="image image2"></div>
                             <div className="content">
                                 <div className="header">Classmate Tracker</div>
@@ -44,10 +44,10 @@ function Portfolio() {
                                 <a href="/port2"><button type="button"
                                     class="btn btn-info zoom">More Info</button></a>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                     <div className="col-lg-3 card3">
-                        <div className="card">
+                        {/* <div className="card">
                             <div className="image image3"></div>
                             <div className="content">
                                 <div className="header">Pokedex</div>
@@ -61,7 +61,7 @@ function Portfolio() {
                                 <a href="/port3"><button type="button"
                                     class="btn btn-info zoom">More Info</button></a>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
                 <p className="port">These are a few projects from my bootcamp. I currently have a few other projects in the works. To see my other work please check out my GitHub at the link below.</p>
