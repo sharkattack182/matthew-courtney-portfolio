@@ -12,25 +12,22 @@ function Portfolio() {
                 <h1 className="heading">Portfolio</h1>
                 <div className="row clear">
                     <div className="col-lg-4 seperate">
-                        <div class="flip-card">
-                            <div class="flip-card-inner">
-                                <div class="flip-card-front">
-                                    <div class="cardContainer">
-                                        <div class="cardName">
-                                            <h3>Hello World</h3>
+                        <div className="flip-card">
+                            <div className="flip-card-inner">
+                                <div className="flip-card-front equippe">
+                                    <div className="cardContainer">
+                                        <div className="cardName">
+                                            <h3>EquiPPE</h3>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="flip-card-back">
                                     <div className="cardContainer back">
-                                        <h4 className="projectName">Project Name</h4>
-                                        <p className="projectDesc">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis assumenda sapiente doloremque saepe est alias asperiores fugiat animi blanditiis voluptatum, reiciendis deserunt eius omnis consectetur eos repellendus rerum amet? Obcaecati.</p>
+                                        <h4 className="projectName">EquiPPE</h4>
+                                        <p className="projectDesc">EquiPPE is a react.js based app that functions as an e-commerce site for users to buy PPE. It was my final project for my bootcamp. </p>
                                         <div className="functionalButtons">
-                                            <div className="buttons">More Info</div>
-                                            <div className="links">
-                                                <div className="buttons gh">Github</div>
-                                                <div className="buttons dep">Deployed</div>
-                                            </div>
+                                        <a href="/port1/" id="btn" className="button button-outline button-white">More Info</a>
+                            
                                         </div>
                                     </div>
                                 </div>
@@ -39,25 +36,21 @@ function Portfolio() {
                     </div>
                     
                     <div className="col-lg-4 seperate">
-                        <div class="flip-card">
-                            <div class="flip-card-inner">
-                                <div class="flip-card-front">
-                                    <div class="cardContainer">
-                                        <div class="cardName">
-                                            <h3>Hello World</h3>
+                        <div className="flip-card">
+                            <div className="flip-card-inner">
+                                <div className="flip-card-front classmate">
+                                    <div className="cardContainer">
+                                        <div className="cardName">
+                                            <h3>Classmate Tracker</h3>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="flip-card-back">
                                     <div className="cardContainer back">
-                                        <h4 className="projectName">Project Name</h4>
-                                        <p className="projectDesc">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis assumenda sapiente doloremque saepe est alias asperiores fugiat animi blanditiis voluptatum, reiciendis deserunt eius omnis consectetur eos repellendus rerum amet? Obcaecati.</p>
+                                        <h4 className="projectName">Classmate Tracker</h4>
+                                        <p className="projectDesc">The classmate tracker is a react.js app that allows users to search and filter through a list of classmates.</p>
                                         <div className="functionalButtons">
-                                            <div className="buttons">More Info</div>
-                                            <div className="links">
-                                                <div className="buttons gh">Github</div>
-                                                <div className="buttons dep">Deployed</div>
-                                            </div>
+                                        <a href="/port2/" id="btn" className="button button-outline button-white">More Info</a>
                                         </div>
                                     </div>
                                 </div>
@@ -69,25 +62,21 @@ function Portfolio() {
                 </div>
                 <div className="row clear">
                     <div className="col-lg-4 seperate">
-                        <div class="flip-card">
-                            <div class="flip-card-inner">
-                                <div class="flip-card-front">
-                                    <div class="cardContainer">
-                                        <div class="cardName">
-                                            <h3>Hello World</h3>
+                        <div className="flip-card">
+                            <div className="flip-card-inner">
+                                <div className="flip-card-front pokedex">
+                                    <div className="cardContainer">
+                                        <div className="cardName">
+                                            <h3>Pokedex</h3>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="flip-card-back">
                                     <div className="cardContainer back">
-                                        <h4 className="projectName">Project Name</h4>
-                                        <p className="projectDesc">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis assumenda sapiente doloremque saepe est alias asperiores fugiat animi blanditiis voluptatum, reiciendis deserunt eius omnis consectetur eos repellendus rerum amet? Obcaecati.</p>
+                                        <h4 className="projectName">Pokedex</h4>
+                                        <p className="projectDesc">The Pokedex project uses the pokemon API and sequelize to allow a user to add pokemon to thier pokedex.</p>
                                         <div className="functionalButtons">
-                                            <div className="buttons">More Info</div>
-                                            <div className="links">
-                                                <div className="buttons gh">Github</div>
-                                                <div className="buttons dep">Deployed</div>
-                                            </div>
+                                        <a href="/port3/" id="btn" className="button button-outline button-white">More Info</a>
                                         </div>
                                     </div>
                                 </div>
@@ -96,25 +85,21 @@ function Portfolio() {
                     </div>
                     
                     <div className="col-lg-4 seperate">
-                        <div class="flip-card">
-                            <div class="flip-card-inner">
-                                <div class="flip-card-front">
-                                    <div class="cardContainer">
-                                        <div class="cardName">
-                                            <h3>Hello World</h3>
+                        <div className="flip-card">
+                            <div className="flip-card-inner">
+                                <div className="flip-card-front geo-snacks">
+                                    <div className="cardContainer">
+                                        <div className="cardName">
+                                            <h3>Geo Snacks</h3>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="flip-card-back">
                                     <div className="cardContainer back">
-                                        <h4 className="projectName">Project Name</h4>
-                                        <p className="projectDesc">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis assumenda sapiente doloremque saepe est alias asperiores fugiat animi blanditiis voluptatum, reiciendis deserunt eius omnis consectetur eos repellendus rerum amet? Obcaecati.</p>
+                                        <h4 className="projectName">Geo Snacks</h4>
+                                        <p className="projectDesc">Geo snacks is an API based app that alerts the user to restaurants near by based of a users input.</p>
                                         <div className="functionalButtons">
-                                            <div className="buttons">More Info</div>
-                                            <div className="links">
-                                                <div className="buttons gh">Github</div>
-                                                <div className="buttons dep">Deployed</div>
-                                            </div>
+                                        <a href="https://github.com/sharkattack182" id="btn" className="button button-outline button-white">More Info</a>
                                         </div>
                                     </div>
                                 </div>
@@ -129,53 +114,7 @@ function Portfolio() {
             </div>
         </div>
 
-        // Notes
 
-        // {/* <div className="card">
-        //     <div className="image image1"></div>
-        //     <div className="content">
-        //         <div className="header">EquiPPE</div>
-        //         <div className="meta">Matthew Courtney</div>
-        //         <div className="description">EquiPPE is an ecommerce site. IT was created as the final project for my Bootcamp. Please click the link below for more information.</div>
-        //         <a href="https://vast-ravine-19894.herokuapp.com/" target="_blank"><button type="button"
-        //             class="btn btn-info zoom"><i class="fas fa-link"></i></button></a>
-        //         <a href="https://github.com/sharkattack182/project-3" target="_blank"><button type="button"
-        //             class="btn btn-info zoom"><i class="fab fa-github"></i></button></a>
-        //         <br />
-        //         <a href="/port1"><button type="button"
-        //             class="btn btn-info zoom">More Info</button></a>
-        //     </div>
-        // </div> */}
-        //                        {/* <div className="card">
-        //     <div className="image image3"></div>
-        //     <div className="content">
-        //         <div className="header">Pokedex</div>
-        //         <div className="meta">Matthew Courtney</div>
-        //         <div className="description">The Pokedex project was my first experience using APIs. It was my second project for my bootcamp. Please click the link below for more info.</div>
-        //         <a href="https://vast-escarpment-44555.herokuapp.com/" target="_blank"><button type="button"
-        //             class="btn btn-info zoom"><i class="fas fa-link"></i></button></a>
-        //         <a href="https://github.com/sharkattack182/react-employee" target="_blank"><button type="button"
-        //             class="btn btn-info zoom"><i class="fab fa-github"></i></button></a>
-        //         <br />
-        //         <a href="/port3"><button type="button"
-        //             class="btn btn-info zoom">More Info</button></a>
-        //     </div>
-        // </div> */}
-        // {/* <div className="card">
-        //     <div className="image image2"></div>
-        //     <div className="content">
-        //         <div className="header">Classmate Tracker</div>
-        //         <div className="meta">Matthew Courtney</div>
-        //         <div className="description">The classmate tracker is a react app that I used to gather contact information for the students in my class to help everyone easily connect. Please click the link below for more info.</div>
-        //         <a href="https://powerful-lowlands-68943.herokuapp.com/" target="_blank"><button type="button"
-        //             class="btn btn-info zoom"><i class="fas fa-link"></i></button></a>
-        //         <a href="https://github.com/sharkattack182/react-employee" target="_blank"><button type="button"
-        //             class="btn btn-info zoom"><i class="fab fa-github"></i></button></a>
-        //         <br />
-        //         <a href="/port2"><button type="button"
-        //             class="btn btn-info zoom">More Info</button></a>
-        //     </div>
-        // </div> */}
 
     )
 }

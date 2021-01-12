@@ -16,7 +16,7 @@ function Sidebar() {
                     </div>
                 </a>
                 <nav className="block main-navigation">
-                    <div className="navigation-extend-bar">
+                    {/* <div className="navigation-extend-bar">
                         <div className="social-icons">
                             <a rel="me" href="mailto:matthewdc182@gmail.com" className="button button-icon u-email" title="mail:matthewdc182@gmail.com">
                                 <i className="fa fa-envelope"></i>
@@ -31,7 +31,7 @@ function Sidebar() {
                         <a href="#" className="navigation-extend-button js-extend-main-navigation">
                             <i className="fa fa-bars"></i>
                         </a>
-                    </div>
+                    </div> */}
                     <div className="navigation-extendable text-center">
                         <ul className="text-center">
                             <li>
