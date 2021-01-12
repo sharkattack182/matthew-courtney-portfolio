@@ -14,3 +14,10 @@
   min-height: 100vh;
   background-blend-mode: saturation; */
 }
+
+@media (max-width: 900px) {
+  .App {
+    background-color:  rgb(90, 93, 95);
+    background-image: none;
+  }
+}

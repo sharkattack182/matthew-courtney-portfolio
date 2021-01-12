@@ -1,8 +1,8 @@
 .title {
     color: white;
-    font-size: 80px;
-    padding-top: 25px;
-    text-align: center;
+    font-size: 20vh;
+    padding-top: 1vh;
+    text-align: right;
 }
 
 .container-port {
@@ -18,18 +18,32 @@
 }
 .blue {
     background-color:  rgba(44, 146, 241, 0.8);
-    padding-left: 30px;
-    max-width: 500px;
+    /* padding-left: 30px; */
+    position: relative;
     height: fit-content;
-    text-align: center;
+    /* text-align: center; */
+    border-radius: 25px;
+    
 }
 
-
+.link-buttons {
+    margin: 0 auto;
+}
 .image1 {
-    max-height: 300px;
+    height: 40vh;
     width: auto;
-    margin-bottom: 10px;
-    padding: 0;
+    margin-top: 5vh;
+    margin-left: 1vw;
+    margin-bottom: 1vw;
+    border-radius: 15px;
+    float: right;
+
+}
+
+.port-description {
+    margin-top: 5vh;
+    font-size: 3.5vh;
+    color: white;
 }
 
 .button-white {
@@ -57,8 +71,8 @@
 
     .title {
         color: white;
-        font-size: 70px;
-        padding-top: 25px;
+        font-size: 25vw;
+        /* padding-top: 25px; */
         text-align: center;
     }
 
@@ -95,13 +109,26 @@
         margin-left: auto;
         margin-right: auto;
         padding: 0;
+        text-align: center;
     }
 
     .image1 {
         margin-bottom: 20px;
         padding: 0;
+        height: auto;
         width: 100%;
         margin-right: auto;
         margin-left: auto;
+
+        /* .image1 {
+    height: 40vh;
+    width: auto;
+    margin-top: 5vh;
+    margin-left: 1vw;
+    margin-bottom: 1vw;
+    border-radius: 15px;
+    float: right;
+
+} */
     }
 }
