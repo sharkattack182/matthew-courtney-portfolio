@@ -204,12 +204,19 @@ li a:hover {
     }
 
     .site-sidebar .site-sidebar-inner {
-        padding: 45px 40px 10px 40px ;
+        /* padding: 45px 40px 10px 40px ; */
+        padding: 45px 0px 10px 0px;
+        overflow-x: hidden;
         height: auto;
     }
     
     .main-navigation .navigation-extend-bar a {
         display: inline;
+    }
+
+    .home-section-inner {
+        overflow-x: hidden;
+        max-width: 100vw
     }
 
     .block-social {
