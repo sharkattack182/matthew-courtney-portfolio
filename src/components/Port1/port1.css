@@ -4,7 +4,13 @@
     padding-top: 1vh;
     text-align: right;
 }
-
+.title2 {
+    color: white;
+    font-size: 15vh;
+    padding-top: 1vh;
+    text-align: right;
+    margin-right:5vw;
+}
 .container-port {
     margin-left: 31%;
     padding-top: 40px;
