@@ -99,7 +99,7 @@ function Portfolio() {
                                         <h4 className="projectName">Geo Snacks</h4>
                                         <p className="projectDesc">Geo snacks is an API based app that alerts the user to restaurants near by based of a users input.</p>
                                         <div className="functionalButtons">
-                                        <a href="https://github.com/sharkattack182" id="btn" className="button button-outline button-white">More Info</a>
+                                        <a href="/port4/" id="btn" className="button button-outline button-white">More Info</a>
                                         </div>
                                     </div>
                                 </div>
